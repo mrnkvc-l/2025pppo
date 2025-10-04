@@ -8,7 +8,7 @@ model_gen: https://drive.google.com/file/d/1aF2zVTDLilu5MaVwZtiUynZBG1mDwPMY/vie
 
 model_age: https://drive.google.com/file/d/11sdR-G-_J3EhBZhqf_ZgFV6vUNnaPIXZ/view?usp=drive_link
 
-Sve slike korišćene za treniranje modela dostupne su na sajtu [KAGGLE](https://www.kaggle.com/) i ovo su putanje do njih:
+Sve slike korišćene za treniranje modela dostupne su na sajtu [kaggle](https://www.kaggle.com/) i ovo su putanje do njih:
 
 pol i godine: https://www.kaggle.com/datasets/jangedoo/utkface-new?select=crop_part1
 
